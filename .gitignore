@@ -1,0 +1,6 @@
+arince/settings.py
+db.sqlite3
+*.pyc
+.idea/
+media
+static
